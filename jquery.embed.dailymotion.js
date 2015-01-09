@@ -3,7 +3,7 @@
  * Transform Dailymotion URLs to embedded videos
  *
  * @author      MarQuis Knox <hire@marquisknox.com>
- * @copyright   2015 BizLogic
+ * @copyright   2015 MarQuis Knox
  * @link		http://marquisknox.com
  * @link		http://stackoverflow.com/a/12387913
  * @license     Commercial
